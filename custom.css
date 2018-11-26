@@ -1,0 +1,14 @@
+.mycard>p {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.calculator{
+	/*height: 600px;*/
+	width: 1000px
+}
+
+
+.digit{
+	background: green;
+	
+}
